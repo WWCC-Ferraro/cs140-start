@@ -1,0 +1,13 @@
+{
+  "name": "cs140-start",
+  "private": true,
+  "type": "module",
+  "description": "A practice homework: run it, test it, change one line, push it.",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/welcome.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
