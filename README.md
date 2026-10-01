@@ -2,7 +2,7 @@
 
 Every homework in this course is laid out like this repository. This one has
 nothing to solve: you change one line, and everything else is practice with the
-tools. Start Here's [*How a homework works*](https://wwcc.dev/#/lesson/how-a-homework-works)
+tools. The lesson [*How a homework works*](https://wwcc.dev/#/lesson/how-a-homework-works)
 walks you through it.
 
 This repository is not graded and is not submitted.
