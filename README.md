@@ -1,8 +1,8 @@
 # CS 140 — a practice homework
 
 Every homework in this course is laid out like this repository. This one has
-nothing to solve: you change one line, and everything else is practice with the
-tools. The lesson [*How a homework works*](https://wwcc.dev/#/lesson/how-a-homework-works)
+no problem to solve: you change one line, and the rest is practice with the
+tools you will use in every homework. The lesson [*How a homework works*](https://wwcc.dev/#/lesson/how-a-homework-works)
 walks you through it.
 
 This repository is not graded and is not submitted.
@@ -30,7 +30,8 @@ This repository is not graded and is not submitted.
    npm test
    ```
 
-   One test passes and one fails. That is the starting point.
+   One test passes and one fails. That is expected: the failing test is the
+   one your task makes pass.
 
 ## Your task
 
